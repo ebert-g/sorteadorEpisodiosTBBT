@@ -1,6 +1,6 @@
 # Sorteador de Episódios de The Big Bang Theory 🎲📺
 
-Olá! Meu nome é João, sou fã de The Big Bang Theory e já assisti todos os episódios da série. Como gosto muito da área de desenvolvimento backend, resolvi criar esse projeto como forma de praticar minhas habilidades com **Spring Boot** — e de quebra, reviver bons momentos aleatórios da série! 😄
+Olá! Meu nome é Ebert, sou fã de The Big Bang Theory e já assisti todos os episódios da série. Como gosto muito da área de desenvolvimento backend, resolvi criar esse projeto como forma de praticar minhas habilidades com **Spring Boot** — e de quebra, reviver bons momentos aleatórios da série! 😄
 
 ## 🎯 Objetivo
 
